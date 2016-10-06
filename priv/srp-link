@@ -1,0 +1,5 @@
+srp_link:
+module		TfK Schulrouter Plus
+description	Show link to the Schulrouter Plus web interface
+assign		admins
+

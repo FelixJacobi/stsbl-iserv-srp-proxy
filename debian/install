@@ -1,0 +1,4 @@
+share/*		usr/share/iserv/
+priv/*		usr/share/iserv/priv/
+config/*	usr/share/iserv/iservcfg/config/
+debian/changelog	DEBIAN/

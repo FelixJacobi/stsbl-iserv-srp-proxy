@@ -1,0 +1,5 @@
+SrPAddress:
+name             Address of the Schulrouter Plus
+description      Enter the Address of the Schulrouter Plus whose web interface should be shown via the link in the navigation. Those can be a fully-qualified hostname or an ip address.
+group            Module: Schulrouter Plus Proxy
+type             string

@@ -1,0 +1,14 @@
+msgid "Please configure initally the address of the Schulrouter Plus in iservcfg."
+msgstr "Bitte konfigurieren sie zunächst die Adresse des Schulrouter Plus in iservcfg."
+
+msgid "Error during connect to the Schulrouter Plus: "
+msgstr "Fehler während des Verbindens zum Schulrouter Plus: "
+
+msgid "Enter the Address of the Schulrouter Plus whose web interface should be shown via the link in the navigation. Those can be a fully-qualified hostname or an ip address."
+msgstr "Geben sie die Adresse des Schulrouter Plus an, dessen Weboberfläche über den Link angezeigt werden soll. Dies kann ein vollqualifizierter Hostname oder eine IP-Adresse sein."
+
+msgid "Address of the Schulrouter Plus"
+msgstr "Adresse des Schulrouter Plus"
+
+msgid "Module: Schulrouter Plus Proxy"
+msgstr "Modul: Schulrouter Plus Proxy"

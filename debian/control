@@ -1,0 +1,17 @@
+Source: stsbl-iserv-srp-proxy
+Section: misc
+Priority: extra
+Maintainer: Stadtteilschule Blankenese <repository@stsbl.de>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: https://it.stsbl.de/documentation/mods/stsbl-iserv-srp-proxy
+
+Package: stsbl-iserv-srp-proxy
+Architecture: all
+Description: Schulrouter Plus-Proxy für IServ (EXPERIMENTELL)
+ Stellt einen webbasierten Proxy für den Zugriff auf die Weboberfläche eines 
+ Schulrouter Plus über den IDesk zur Verfügung. Der Schulrouterm, dessen
+ Weboberfläche angezeigt werden soll, muss unter iservcfg > Adresse des
+ Schulrouter Plus eingestellt werden.
+Tag: suite::iserv:deploy, role::plugin, status::experimental
+
