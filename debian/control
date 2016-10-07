@@ -10,8 +10,8 @@ Package: stsbl-iserv-srp-proxy
 Architecture: all
 Description: Schulrouter Plus-Proxy für IServ (EXPERIMENTELL)
  Stellt einen webbasierten Proxy für den Zugriff auf die Weboberfläche eines 
- Schulrouter Plus über den IDesk zur Verfügung. Der Schulrouterm, dessen
- Weboberfläche angezeigt werden soll, muss unter iservcfg > Adresse des
- Schulrouter Plus eingestellt werden.
+ Schulrouter Plus über den IDesk zur Verfügung. Der Schulrouter, dessen
+ Weboberfläche angezeigt werden soll, muss unter "iservcfg -> Adresse des
+ Schulrouter Plus" eingestellt werden.
 Tag: suite::iserv:portal, role::plugin, status::experimental
 
