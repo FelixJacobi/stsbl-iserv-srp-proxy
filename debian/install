@@ -1,4 +1,6 @@
 share/*		usr/share/iserv/
 priv/*		usr/share/iserv/priv/
 config/*	usr/share/iserv/iservcfg/config/
+iconf/*		usr/share/iserv/iconf/
+docs/*		usr/share/doc/stsbl-iserv-srp-proxy/
 debian/changelog	DEBIAN/

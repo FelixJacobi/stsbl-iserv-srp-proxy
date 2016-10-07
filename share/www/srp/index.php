@@ -96,7 +96,7 @@ if($url !== "") {
 	
 	} catch (Exception $e) {
 		PageBlue("Schulrouter Plus", "tfk/srp");
-		echo "<strong>".icon("dlg-error")._("Error during connect to the Schulrouter Plus: ").$e->getMessage()."</strong>";
+		echo "<strong>".icon("dlg-err")._("Error during connect to the Schulrouter Plus: ").$e->getMessage()."</strong>";
 		_PageBlue();
 	}
 

@@ -1,0 +1,21 @@
+  # Schulrouter Plus Proxy
+  <Directory "/usr/share/iserv/www/srp/">
+    <Files "config.php">
+      # Deny direct access to configuration file
+      Order deny,allow
+      Deny from all
+    </Files>
+  </Directory>
+
+  <Directory "/usr/share/iserv/www/srp/vendor/">
+    # Deny direct access to vendor files
+    Order allow,deny
+    Deny from all
+  </Directory>
+
+  <Directory "/usr/share/iserv/www/srp/templates/">
+    # Deny direct access to template files
+    Order allow,deny
+    Deny from all
+  </Directory>
+
