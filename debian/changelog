@@ -2,6 +2,7 @@ stsbl-iserv-srp-proxy (16.10.07-1) experimental; urgency=low
 
   * Fixed package description.
   * Moved locale file to correct location. 
+  * Updated translations.
 
  -- Stadtteilschule Blankenese <repository@stsbl.de>  Fri, 07 Oct 2016 03:19:12 +0200
 
