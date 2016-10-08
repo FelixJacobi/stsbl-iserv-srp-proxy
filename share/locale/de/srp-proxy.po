@@ -11,10 +11,7 @@ msgid "Address of the Schulrouter Plus"
 msgstr "Adresse des Schulrouter Plus"
 
 msgid "Module: Schulrouter Plus Proxy"
-msgstr "Modul: Schulrouter Plus Proxy"
-
-msgid "Schulrouter Plus proxy"
-msgstr "Schulrouter Plus Proxy"
+msgstr "Modul: Schulrouter Plus-Proxy"
 
 msgid "Show link to the Schulrouter Plus web interface"
-msgstr "Link zur Schulrouter Plus Weboberfläche anzeigen"
+msgstr "Link zur Schulrouter Plus-Weboberfläche anzeigen"

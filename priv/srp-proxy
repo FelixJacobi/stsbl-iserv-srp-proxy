@@ -1,5 +1,5 @@
 srp_link:
-module		Schulrouter Plus proxy
+module		Time for kids
 description	Show link to the Schulrouter Plus web interface
 assign		admins
 

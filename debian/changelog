@@ -1,3 +1,16 @@
+stsbl-iserv-srp-proxy (16.10.08-0) experimental; urgency=medium
+
+  [ Felix Jacobi ]
+  - enhancements
+  * Updated translations.
+  * Updated package description.
+  * Access to vendor directory and config.php is now denied in
+    the apache configuration.
+  - bugfixes
+  * Included missing documentation. 
+
+ -- Stadtteilschule Blankenese <repository@stsbl.de>  Sat, 08 Oct 2016 12:14:21 +0200
+
 stsbl-iserv-srp-proxy (16.10.07-1) experimental; urgency=low
 
   * Fixed package description.
