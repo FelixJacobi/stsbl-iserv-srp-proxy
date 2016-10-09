@@ -1,3 +1,13 @@
+stsbl-iserv-srp-proxy (16.10.09-0) experimental; urgency=medium
+
+  [ Felix Jacobi ]
+  * Changed source format from native to quilt.
+  * Fixed type: apache2 instead of apache.
+
+  [ Felix Jacobi ]
+
+ -- Stadtteilschule Blankenese <repository@stsbl.de>  Sun, 09 Oct 2016 03:07:01 +0200
+
 stsbl-iserv-srp-proxy (16.10.08-0) experimental; urgency=medium
 
   [ Felix Jacobi ]
