@@ -1,3 +1,12 @@
+stsbl-iserv-srp-proxy (16.10.09-1) experimental; urgency=low
+
+  [ Felix Jacobi ]
+  * Fixed inversed descriptions.
+
+  [ Felix Jacobi ]
+
+ -- Stadtteilschule Blankenese <repository@stsbl.de>  Sun, 09 Oct 2016 04:04:37 +0200
+
 stsbl-iserv-srp-proxy (16.10.09-0) experimental; urgency=medium
 
   [ Felix Jacobi ]
