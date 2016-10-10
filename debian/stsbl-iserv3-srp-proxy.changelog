@@ -1,0 +1,7 @@
+stsbl-iserv3-srp-proxy (16.10.10-0) experimental; urgency=medium
+
+  * Initial release.
+
+  iserv: Die Oberfläche des Schulrouter Plus-Proxys ist nun auch über IServ 3 aufrufbar.
+
+ -- Stadtteilschule Blankenese <repository@stsbl.de>  Mon, 10 Oct 2016 21:36:33 +0200

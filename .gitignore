@@ -1,5 +1,8 @@
 debian/stsbl-iserv-srp-proxy/*
 debian/stsbl-iserv-srp-proxy.debhelper.log
 debian/stsbl-iserv-srp-proxy.substvars
+debian/stsbl-iserv3-srp-proxy/*
+debian/stsbl-iserv3-srp-proxy.debhelper.log
+debian/stsbl-iserv3-srp-proxy.substvars
 debian/files
 debian/debhelper-build-stamp
