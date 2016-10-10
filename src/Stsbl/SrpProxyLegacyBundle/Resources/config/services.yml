@@ -1,0 +1,11 @@
+services:
+    stsbl.srp_proxy.menu.legacy_module_loader:
+        class: Stsbl\SrpProxyLegacyBundle\Menu\SrpProxyLegacyModuleLoader # Our legacy module loader
+        calls:
+          - [setContainer, ["@service_container"]]
+    stsbl.spr_proxy.menu:
+        class: Stsbl\SrpProxyLegacyBundle\EventListener\MenuListener # Out MenuListener Class
+        tags:
+          - { name: kernel.event_listener, event: iserv_portal.menu_main, method: onBuildMainMenu } # Tells IServ about the main menu method
+        calls:
+           - [ setLegacyModuleLoader, ["@stsbl.srp_proxy.menu.legacy_module_loader"]]
