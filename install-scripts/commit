@@ -1,0 +1,11 @@
+#!/bin/bash -e
+
+export LC_ALL=C
+
+mkdir -v src.collect/
+ 
+
+find src/ -mindepth 1 -type f -exec install-scripts/python-wrapper {} \;
+
+rm -rfv src/
+mv src.collect/ src/

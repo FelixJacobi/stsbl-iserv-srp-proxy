@@ -1,0 +1,3 @@
+#!/bin/bash -e
+
+cp -v /usr/share/iserv/src/$(python -c "import os.path; print os.path.relpath('$i', './')") src.collect/$(python -c "import os.path; print os.path.relpath('$i', './')")
