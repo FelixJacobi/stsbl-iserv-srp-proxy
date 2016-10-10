@@ -1,3 +1,14 @@
+stsbl-iserv-srp-proxy (16.10.10-0) experimental; urgency=medium
+
+  [ Felix Jacobi ]
+  * Added install-scripts to source package.
+  * Added IServ 3 Legacy Bundle.
+  * Added dependency on package with IServ 3 files.
+
+  [ Felix Jacobi ]
+
+ -- Stadtteilschule Blankenese <repository@stsbl.de>  Mon, 10 Oct 2016 21:56:35 +0200
+
 stsbl-iserv-srp-proxy (16.10.09-1) experimental; urgency=low
 
   [ Felix Jacobi ]
