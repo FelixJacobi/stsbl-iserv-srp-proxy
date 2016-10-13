@@ -1,5 +1,5 @@
 srp_link:
-module		Module: Schulrouter Plus Proxy
+module		Schulrouter Plus Proxy
 description	Show link to the Schulrouter Plus web interface
 assign		admins
 
