@@ -1,3 +1,13 @@
+stsbl-iserv-srp-proxy (16.10.13-1) experimental; urgency=low
+
+  [ Felix Jacobi ]
+  * Fixed changelog umlaut message.
+  * Fixed changeklog #2.
+
+  [ Stadtteilschule Blankenese ]
+
+ -- Stadtteilschule Blankenese <repository@stsbl.de>  Thu, 13 Oct 2016 21:38:53 +0200
+
 stsbl-iserv-srp-proxy (16.10.13-0) experimental; urgency=low
 
   [ Felix Jacobi ]
