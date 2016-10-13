@@ -4,15 +4,13 @@ stsbl-iserv-srp-proxy (16.10.13-0) experimental; urgency=low
   * Repaired broken changelog in IServ 3 Package.
   * Updated source package structure.
   * Added news log message in changelog.
-  * Udpated install file.
+  * Updated install file.
   * Updated install file #2.
   * Imported new install scripts.
   * Fixed l10n.
-  * Fixed changelog message
+  * Fixed changelog message.
 
   [ Stadtteilschule Blankenese ]
-
-  iserv: Der Schulrouter Plus-Proxy ist nun auch über IServ 3 aufrufbar.
 
  -- Stadtteilschule Blankenese <repository@stsbl.de>  Thu, 13 Oct 2016 21:11:40 +0200
 
