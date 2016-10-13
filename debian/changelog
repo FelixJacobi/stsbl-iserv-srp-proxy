@@ -12,7 +12,7 @@ stsbl-iserv-srp-proxy (16.10.13-0) experimental; urgency=low
 
   [ Stadtteilschule Blankenese ]
 
-  iserv: Der Schulrouter Plus-Proxy ist nun auch ÃÃ¼ber IServ 3 aufrufbar.
+  iserv: Der Schulrouter Plus-Proxy ist nun auch über IServ 3 aufrufbar.
 
  -- Stadtteilschule Blankenese <repository@stsbl.de>  Thu, 13 Oct 2016 21:11:40 +0200
 
