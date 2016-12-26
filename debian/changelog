@@ -2,6 +2,9 @@ stsbl-iserv-srp-proxy (16.12.26-0) experimental; urgency=medium
 
   [ Felix Jacobi ]
   * Updated deb-tags.
+  * Removed experimental status.
+  * Removed new status.
+  * Updated package description.
 
   [ Stadtteilschule Blankenese ]
 

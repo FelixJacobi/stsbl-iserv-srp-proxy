@@ -9,16 +9,16 @@ Homepage: https://it.stsbl.de/documentation/mods/stsbl-iserv-srp-proxy
 Package: stsbl-iserv-srp-proxy
 Architecture: all
 Depends: stsbl-iserv3-srp-proxy
-Description: Schulrouter Plus-Proxy für IServ (EXPERIMENTELL)
+Description: Schulrouter Plus-Proxy für IServ
  Stellt einen webbasierten Proxy für den Zugriff auf die Weboberfläche eines 
  Schulrouter Plus über den IDesk zur Verfügung. Der Schulrouter, dessen
  Weboberfläche angezeigt werden soll, muss unter "iservcfg -> Adresse des
  Schulrouter Plus" eingestellt werden.
-Tag: suite::iserv:portal, role::plugin
+Tag: suite::iserv:portal, role::plugin, implemented-in::php
 
 Package: stsbl-iserv3-srp-proxy
 Architecture: all
 Depends: stsbl-iserv3-maintenance
 Description: Schulrouter Plus-Proxy für IServ 3
  Enthält die IServ 3-Dateien für den Schulrouter Plus-Proxy.
-Tag: suite::iserv:portal
+Tag: suite::iserv:portal, implemented-in::php
