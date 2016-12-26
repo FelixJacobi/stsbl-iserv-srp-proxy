@@ -14,10 +14,11 @@ Description: Schulrouter Plus-Proxy für IServ (EXPERIMENTELL)
  Schulrouter Plus über den IDesk zur Verfügung. Der Schulrouter, dessen
  Weboberfläche angezeigt werden soll, muss unter "iservcfg -> Adresse des
  Schulrouter Plus" eingestellt werden.
-Tag: suite::iserv:portal, role::plugin, status::experimental, status::highlighted
+Tag: suite::iserv:portal, role::plugin
 
 Package: stsbl-iserv3-srp-proxy
 Architecture: all
 Depends: stsbl-iserv3-maintenance
 Description: Schulrouter Plus-Proxy für IServ 3
  Enthält die IServ 3-Dateien für den Schulrouter Plus-Proxy.
+Tag: suite::iserv:portal
