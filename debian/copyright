@@ -3,16 +3,16 @@ Upstream-Name: stsbl-iserv-srp-proxy
 Source: <url://example.com>
 
 Files: *
-Copyright: 2016 Felix Jacobi <felix.jacobi@stsbl.de>
+Copyright: 2017 Felix Jacobi <felix.jacobi@stsbl.de>
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: 2016 Stadtteilschule Blankenese <repository@stsbl.de>
+Copyright: 2017 Stadtteilschule Blankenese <repository@stsbl.de>
 License: GPL-3.0+
 
 Files: share/www/srp/*
-Copyright: 2016 Paulius Tuskevicius <ptuskevicius@gmail.com>
-	   2016 Felix Jacobi <felix.jacobi@stsbl.de>
+Copyright: 2017 Paulius Tuskevicius <ptuskevicius@gmail.com>
+	   2017 Felix Jacobi <felix.jacobi@stsbl.de>
 License: MIT 
 
 License: GPL-3.0+
