@@ -1,8 +1,10 @@
+# src/Stsbl/SrpProxyLegacyBundle/Resources/config/services.yml
 services:
     stsbl.srp_proxy.menu.legacy_module_loader:
         class: Stsbl\SrpProxyLegacyBundle\Menu\SrpProxyLegacyModuleLoader # Our legacy module loader
         calls:
           - [setContainer, ["@service_container"]]
+    
     stsbl.spr_proxy.menu:
         class: Stsbl\SrpProxyLegacyBundle\EventListener\MenuListener # Out MenuListener Class
         tags:
